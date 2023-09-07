@@ -1,0 +1,12 @@
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\bin\Debug\LabActivity2C.exe.config
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\bin\Debug\LabActivity2C.exe
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\bin\Debug\LabActivity2C.pdb
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\bin\Debug\LabActivity2C.xml
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\obj\Debug\LabActivity2C.vbproj.AssemblyReference.cache
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\obj\Debug\LabActivity2C.Form1.resources
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\obj\Debug\LabActivity2C.Resources.resources
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\obj\Debug\LabActivity2C.vbproj.GenerateResource.cache
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\obj\Debug\LabActivity2C.vbproj.CoreCompileInputs.cache
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\obj\Debug\LabActivity2C.exe
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\obj\Debug\LabActivity2C.xml
+C:\Users\irfan\Desktop\poli\sem4\Visual Studio\WebDesign\LabActivity2C\LabActivity2C\obj\Debug\LabActivity2C.pdb
